@@ -9,7 +9,7 @@
     "url": "https://github.com/bustlelabs/max-socket"
   },
   "dependencies": {
-    "ws": "0.4.x"
+    "ws": "3.3.1"
   },
   "engines": {
     "node": "0.12.0",
